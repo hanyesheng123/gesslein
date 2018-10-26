@@ -70,5 +70,11 @@ under the License.
         location="webapp/ecomseo"
         mount-point="/ecomseo"
         app-bar-display="false"/>
+    <webapp name="gesslein"
+        title="gesslein"
+        server="default-server"
+        location="webapp/gesslein"
+        mount-point="/"
+        app-bar-display="false"/>
 </ofbiz-component>
 
